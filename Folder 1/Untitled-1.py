@@ -1,2 +1,4 @@
 x = "hello world"
-print(x)
+y = 1
+
+print (x*y)
